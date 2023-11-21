@@ -93,20 +93,6 @@ Clone this repository to your desired folder:
   npm install or npm i
 ```
 
-
-
-### Deployment
-
-You can deploy this project using:
-Not Yet
-<!--
-Example:
-
-```sh
-
-```
- -->
-
 ## 👥 Authors <a name="authors"></a>
 
 
